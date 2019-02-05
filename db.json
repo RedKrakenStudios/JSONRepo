@@ -90,6 +90,16 @@
       "description": "Chicken",
       "picture": "https://placekitten.com/300/202",
       "background": "assets/img/bg_food_1.jpg"
+    },
+    {
+      "id": "10",
+      "name": "Soho Bar and Chill",
+      "location": "223 SlEasy St.",
+      "distance": "5 mi",
+      "status": "active",
+      "description": "BOGO White Russians",
+      "picture": "https://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/article_thumbnails/quizzes/alcohol_myths_and_facts_quiz/650x350_alcohol_myths_and_facts_quiz.jpg",
+      "background": "assets/img/bg_bar_2.jpg"
     }
   ]
 }
